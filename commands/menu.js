@@ -1,6 +1,6 @@
 module.exports = async ({ text, sock, from }) => {
-  if (text.toLowerCase() === 'الاوامر') {
-    const tarzanMessage = `
+  if (text.toLowerCase() === 'Itachi') {
+    const ItachiMessage = `
 ┏━━━━━━━━━━━━━━━━━━━┓
 ✨ *قائمة أوامر بوت إيتاشي * ✨
 ┗━━━━━━━━━━━━━━━━━━━┛
