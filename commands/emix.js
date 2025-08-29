@@ -23,8 +23,8 @@ module.exports = async ({ sock, msg, text, reply }) => {
         const buffer = await getBuffer(data.result);
 
         const sticker = new Sticker(buffer, {
-            pack: "Emoji Mix",
-            author: "طرزان الواقدي",
+            pack: "Itachi",
+            author: "إيتاشي",
             type: StickerTypes.FULL,
             quality: 75,
             background: "transparent"
