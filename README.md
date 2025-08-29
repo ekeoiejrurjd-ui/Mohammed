@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://b.top4top.io/p_3489wk62d0.jpg" alt="Pair Tarzan Logo" width="250" style="border-radius:15px;"/>
-  <h1>Tarzanalwaqdiy</h1>
+  <img src="https://share.google/images/L7uhNWJ0jXSmHHutG" alt="Pair Tarzan Logo" width="250" style="border-radius:15px;"/>
+  <h1>Itachi</h1>
   <p>
     أداة قوية لربط واتساب مع بوت إيتاشي عبر <b>QR Code</b> باستخدام مكتبة 
     <a href="https://github.com/WhiskeySockets/Baileys">Baileys</a>.
