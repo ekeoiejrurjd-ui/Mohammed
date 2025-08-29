@@ -55,7 +55,7 @@ module.exports = async ({ sock, msg, text, reply, from }) => {
     // ✅ إرسال الرسالة مع أزرار تفاعلية
     await sock.sendMessage(from, {
       text: helpMsg,
-      footer: "🤖 طرزان الواقدي - الإبداع في متناول يدك",
+      footer: "🤖 إيتاشي  - الإبداع في متناول يدك",
       buttons: [
         { buttonId: "fluxai مثال", buttonText: { displayText: "🚀 تجربة Flux" }, type: 1 },
         { buttonId: "stablediffusion مثال", buttonText: { displayText: "🎨 تجربة Stable" }, type: 1 },
