@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://share.google/images/L7uhNWJ0jXSmHHutG" alt="Pair Tarzan Logo" width="250" style="border-radius:15px;"/>
+  <img src="https://t.me/AiplexOfficialAccountye/18" alt="alambrator in Yemen" width="250" style="border-radius:15px;"/>
   <h1>Itachi</h1>
   <p>
     أداة قوية لربط واتساب مع بوت إيتاشي عبر <b>QR Code</b> باستخدام مكتبة 
