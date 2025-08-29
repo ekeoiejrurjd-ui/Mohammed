@@ -80,7 +80,7 @@ async function sendImage(sock, from, msg, result, index, total, query) {
 
   await sock.sendMessage(from, {
     image: Buffer.from(buffer.data, 'binary'),
-    caption: `🔍 *نتيجة ${index} من ${total}*\n📌 *الكلمة:* ${query}\n🌐 *المصدر:* ${result.source}\n\n- بواسطة طرزان الواقدي`,
+    caption: `🔍 *نتيجة ${index} من ${total}*\n📌 *الكلمة:* ${query}\n🌐 *المصدر:* ${result.source}\n\n- بواسطة الامبراطور اليماني `,
     buttons: [
       { buttonId: 'next_img', buttonText: { displayText: '📸 التالي' }, type: 1 }
     ],
